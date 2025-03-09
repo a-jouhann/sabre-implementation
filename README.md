@@ -1,1 +1,1 @@
-This project will contains Sabre flight & hotel api implementation.
+This project will contain Sabre flight & hotel api implementation.
